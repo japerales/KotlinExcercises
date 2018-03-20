@@ -1,2 +1,2 @@
 # KotlinExcercises
-All the Kotlin source code from the Udemy Course.
+This is where I publish my publics works of Kotlin.
